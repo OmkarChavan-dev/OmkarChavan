@@ -30,7 +30,7 @@ Feel free to check out my repositories and give them a star if you like what you
 - [Twitter](https://twitter.com/your-profile)
 - [Email](mailto:your.email@example.com)
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 
 - 📚 Learn more about algorithms and data structures.
 - 🌍 Contribute to open-source projects.
