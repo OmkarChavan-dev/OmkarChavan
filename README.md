@@ -1,4 +1,4 @@
-# OmkarChavanSTR
+# OmkarChavan
 # Hi there, I'm Omkar Chavan 👋
 
 Welcome to my GitHub profile! I'm a passionate programmer exploring various languages and technologies. My main focus right now is Python, SQL, and C++, but I'm always excited to learn and grow. Feel free to browse through my projects, contribute, or just connect with me.
